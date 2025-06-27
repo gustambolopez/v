@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="super-monkey-ball-jr">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/supermonkeyballjr/super-monkey-ball-jr.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

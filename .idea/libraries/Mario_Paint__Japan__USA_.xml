@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Mario Paint (Japan, USA)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/mariopaint/Mario Paint (Japan, USA).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

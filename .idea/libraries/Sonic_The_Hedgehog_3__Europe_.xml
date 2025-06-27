@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sonic The Hedgehog 3 (Europe)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/sonicthehedgehog3/Sonic The Hedgehog 3 (Europe).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

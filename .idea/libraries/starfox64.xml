@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="starfox64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/starfox64/starfox64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

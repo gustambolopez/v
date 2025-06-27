@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Golden Sun (USA, Europe)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/goldensun/Golden Sun (USA, Europe).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

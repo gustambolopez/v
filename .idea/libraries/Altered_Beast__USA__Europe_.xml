@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Altered Beast (USA, Europe)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/alteredbeast/Altered Beast (USA, Europe).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sims 2, The (USA) (En,Fr,De,Es,It)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/thesims2/Sims 2, The (USA) (En,Fr,De,Es,It).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Super Tennis (USA)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/supertennis/Super Tennis (USA).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

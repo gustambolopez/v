@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WarioWare - Touched! (USA)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/wariowaretouched/WarioWare - Touched! (USA).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

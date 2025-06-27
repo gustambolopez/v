@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="harvestmoon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/harvestmoon/harvestmoon.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

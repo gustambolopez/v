@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Mario Party Advance (USA)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/mariopartyadvance/Mario Party Advance (USA).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

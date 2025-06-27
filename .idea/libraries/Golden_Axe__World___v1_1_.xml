@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Golden Axe (World) (v1.1)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/goldenaxe/Golden Axe (World) (v1.1).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

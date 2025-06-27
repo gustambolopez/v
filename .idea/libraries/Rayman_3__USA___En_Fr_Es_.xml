@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Rayman 3 (USA) (En,Fr,Es)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/rayman3/Rayman 3 (USA) (En,Fr,Es).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

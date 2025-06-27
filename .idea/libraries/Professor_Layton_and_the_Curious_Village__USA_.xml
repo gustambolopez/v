@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Professor Layton and the Curious Village (USA)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/professorlayton/Professor Layton and the Curious Village (USA).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Super Princess Peach (Europe) (En,Fr,De,Es,It)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/superprincesspeach/Super Princess Peach (Europe) (En,Fr,De,Es,It).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

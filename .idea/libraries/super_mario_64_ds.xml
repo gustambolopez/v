@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="super-mario-64-ds">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/sm64ds/super-mario-64-ds.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

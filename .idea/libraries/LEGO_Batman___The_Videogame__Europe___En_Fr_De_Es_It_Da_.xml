@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/legobatman/LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Scribblenauts (Europe) (En,Sv,No,Da,Fi)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/scribblenauts/Scribblenauts (Europe) (En,Sv,No,Da,Fi).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

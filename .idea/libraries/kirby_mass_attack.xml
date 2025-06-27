@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kirby-mass-attack">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/kirbymassattack/kirby-mass-attack.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

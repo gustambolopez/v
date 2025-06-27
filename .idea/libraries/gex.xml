@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/gex64/gex.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

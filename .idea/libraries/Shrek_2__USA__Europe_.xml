@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Shrek 2 (USA, Europe)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/shrek2/Shrek 2 (USA, Europe).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

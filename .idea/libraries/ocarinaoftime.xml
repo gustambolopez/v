@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ocarinaoftime">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/ocarinaoftime/ocarinaoftime.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pac-Man World (Europe) (En,Fr,De,Es,It)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/pacmanworld/Pac-Man World (Europe) (En,Fr,De,Es,It).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

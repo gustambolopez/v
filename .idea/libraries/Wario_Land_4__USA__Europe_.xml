@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Wario Land 4 (USA, Europe)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/warioland4/Wario Land 4 (USA, Europe).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

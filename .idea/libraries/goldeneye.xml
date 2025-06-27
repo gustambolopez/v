@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="goldeneye">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/goldeneye007/goldeneye.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

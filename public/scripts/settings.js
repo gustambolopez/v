@@ -99,4 +99,129 @@ document.addEventListener("DOMContentLoaded", function () {
   if (savedFavicon) {
       updateFavicon(savedFavicon);
   }
+
+  // Theme Management System
+  const themes = {
+    default: {
+      '--bg-primary': '#121212',
+      '--bg-secondary': '#1e1e1e',
+      '--bg-tertiary': '#2a2a2a',
+      '--text-primary': '#ffffff',
+      '--text-secondary': '#b0b0b0',
+      '--accent': '#575757',
+      '--border': '#444444'
+    },
+    light: {
+      '--bg-primary': '#ffffff',
+      '--bg-secondary': '#f5f5f5',
+      '--bg-tertiary': '#e0e0e0',
+      '--text-primary': '#000000',
+      '--text-secondary': '#666666',
+      '--accent': '#007bff',
+      '--border': '#cccccc'
+    },
+    blue: {
+      '--bg-primary': '#0a1628',
+      '--bg-secondary': '#1e2a3a',
+      '--bg-tertiary': '#2a3f5f',
+      '--text-primary': '#e6f3ff',
+      '--text-secondary': '#b3d9ff',
+      '--accent': '#4a90e2',
+      '--border': '#3a5f8f'
+    },
+    purple: {
+      '--bg-primary': '#1a0d2e',
+      '--bg-secondary': '#2e1b3b',
+      '--bg-tertiary': '#4a2c5a',
+      '--text-primary': '#f0e6ff',
+      '--text-secondary': '#d1b3ff',
+      '--accent': '#8a2be2',
+      '--border': '#6a4c93'
+    },
+    green: {
+      '--bg-primary': '#0d1f0d',
+      '--bg-secondary': '#1b2e1b',
+      '--bg-tertiary': '#2c4a2c',
+      '--text-primary': '#e6ffe6',
+      '--text-secondary': '#b3ffb3',
+      '--accent': '#2e8b57',
+      '--border': '#4a7c59'
+    },
+    red: {
+      '--bg-primary': '#2e0d0d',
+      '--bg-secondary': '#3b1b1b',
+      '--bg-tertiary': '#5a2c2c',
+      '--text-primary': '#ffe6e6',
+      '--text-secondary': '#ffb3b3',
+      '--accent': '#dc143c',
+      '--border': '#8b4a4a'
+    }
+  };
+
+  function applyTheme(themeName) {
+    const theme = themes[themeName];
+    if (theme) {
+      const root = document.documentElement;
+      Object.keys(theme).forEach(property => {
+        root.style.setProperty(property, theme[property]);
+      });
+      
+      // Update body styles for immediate visual feedback
+      document.body.style.backgroundColor = theme['--bg-primary'];
+      document.body.style.color = theme['--text-primary'];
+      
+      saveToLocalStorage('selectedTheme', themeName);
+      updateThemeSelection(themeName);
+    }
+  }
+
+  function updateThemeSelection(themeName) {
+    document.querySelectorAll('.theme-option').forEach(option => {
+      option.classList.remove('selected');
+    });
+    const selectedOption = document.querySelector(`[data-theme="${themeName}"]`);
+    if (selectedOption) {
+      selectedOption.classList.add('selected');
+    }
+  }
+
+  function initializeThemes() {
+    // Add CSS variables to document root
+    const defaultTheme = themes.default;
+    const root = document.documentElement;
+    Object.keys(defaultTheme).forEach(property => {
+      if (!root.style.getPropertyValue(property)) {
+        root.style.setProperty(property, defaultTheme[property]);
+      }
+    });
+
+    // Load saved theme
+    const savedTheme = loadFromLocalStorage('selectedTheme', 'default');
+    applyTheme(savedTheme);
+
+    // Add event listeners to theme options
+    document.querySelectorAll('.theme-option').forEach(option => {
+      option.addEventListener('click', () => {
+        const themeName = option.dataset.theme;
+        applyTheme(themeName);
+      });
+    });
+
+    // Add reset theme button listener
+    const resetThemeButton = document.getElementById('resetTheme');
+    if (resetThemeButton) {
+      resetThemeButton.addEventListener('click', () => {
+        applyTheme('default');
+        alert('Theme reset to default!');
+      });
+    }
+  }
+
+  // Initialize themes when DOM is loaded
+  initializeThemes();
+
+  // Export theme functions for global access
+  window.applyTheme = applyTheme;
+  window.getAvailableThemes = () => Object.keys(themes);
+  window.getCurrentTheme = () => loadFromLocalStorage('selectedTheme', 'default');
 });

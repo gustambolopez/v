@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sonic The Hedgehog Spinball (USA)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/sonicspinball/Sonic The Hedgehog Spinball (USA).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

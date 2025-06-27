@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mother-3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hosted/mother3/mother-3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
