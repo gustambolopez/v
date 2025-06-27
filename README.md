@@ -6,7 +6,7 @@ Velara is an unblocked games/proxy website made for bypassing restrictions anywh
 
 ## Instalation
 
-To locally host this repo, first you want to clone it
+To locally host this repo first, you want to clone it
 
 ```bash
 git clone https://github.com/UseVelara/velara.git
@@ -34,7 +34,7 @@ Finally, visit localhost:80 (or just localhost) in your browser!!
 
 ## Deploy
 
-// remember to fill this out eventually
+//Remember to fill this out eventually
 
 ## Technologies
 
@@ -47,8 +47,7 @@ Finally, visit localhost:80 (or just localhost) in your browser!!
 just like make a pull request idfk
 
 ## Discord Server
-
-[<img src="https://files.catbox.moe/y2tnep.png" width="300px" height="75px">](https://discord.gg/velara)
+[![Invite](https://invidget.switchblade.xyz/vwaDMvsF?theme=dark)](https://dsc.gg/velara)
 
 ## Acknowledgments
 
