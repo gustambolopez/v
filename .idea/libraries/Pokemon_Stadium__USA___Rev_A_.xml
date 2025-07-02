@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Pokemon Stadium (USA) (Rev A)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/pokemonstadium/Pokemon Stadium (USA) (Rev A).zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="mario-kart-ds">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/mariokartds/mario-kart-ds.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

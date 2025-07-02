@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Pokemon Snap (USA)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/pokemonsnap/Pokemon Snap (USA).zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

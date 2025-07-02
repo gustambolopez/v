@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Quest 64 (USA)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/quest64/Quest 64 (USA).zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

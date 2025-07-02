@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="banjo-pilot">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/banjopilot/banjo-pilot.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

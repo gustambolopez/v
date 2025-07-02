@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="supersmashbros">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/supersmashbros/supersmashbros.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

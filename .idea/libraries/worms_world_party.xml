@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="worms-world-party">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/wormsworldparty/worms-world-party.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

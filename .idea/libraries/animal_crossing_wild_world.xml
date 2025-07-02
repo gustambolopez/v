@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="animal-crossing-wild-world">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/animalcrossingwildworld/animal-crossing-wild-world.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

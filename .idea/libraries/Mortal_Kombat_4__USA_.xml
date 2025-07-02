@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Mortal Kombat 4 (USA)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/mortalkombat4/Mortal Kombat 4 (USA).zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

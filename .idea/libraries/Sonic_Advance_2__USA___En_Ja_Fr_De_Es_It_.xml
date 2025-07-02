@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/sonicadvance2/Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

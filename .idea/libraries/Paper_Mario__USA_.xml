@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Paper Mario (USA)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/papermario/Paper Mario (USA).zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

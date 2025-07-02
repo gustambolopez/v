@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Monopoly (USA) (En,Fr)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/monopoly/Monopoly (USA) (En,Fr).zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

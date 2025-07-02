@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="megamanzero">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/public/hosted/megamanzero/megamanzero.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
